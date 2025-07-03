@@ -45,7 +45,7 @@ BlockoBot addresses real-world needs in:
 ## 📁 Project Structure
 
 ```
-LifeNoggingBot/
+BlockoBot/
 └── youtube_rag_project/ (.gitignore, it generates when running the main)
     ├── audio/                # Downloaded YouTube audio (.mp3)
     ├── transcripts/          # Whisper-generated transcripts (.txt)
