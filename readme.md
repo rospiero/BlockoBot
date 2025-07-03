@@ -46,7 +46,7 @@ BlockoBot addresses real-world needs in:
 
 ```
 BlockoBot/
-└── youtube_rag_project/ (.gitignore, it generates when running the main)
+└── youtube_rag_project/ 
     ├── audio/                # Downloaded YouTube audio (.mp3)
     ├── transcripts/          # Whisper-generated transcripts (.txt)
     ├── chroma_db/            # Vector store files
