@@ -83,7 +83,6 @@ edge-tts
 mistralai
 gradio
 pydantic
-librosa
 yt-dlp
 sentence-transformers
 chromadb
